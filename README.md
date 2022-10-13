@@ -1,3 +1,5 @@
+github库连接：https://github.com/Leopotam/ecslite
+
 # 类
 ## Entity
 Entity(实体)主要就是一个int值，是一个id。
